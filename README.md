@@ -1,4 +1,4 @@
-# Seaformer
+# Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction
 
 A PyTorch implementation of our RAGTrans
 
