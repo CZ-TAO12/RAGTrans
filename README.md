@@ -1,6 +1,6 @@
 # Seaformer
 
-A PyTorch implementation of our Seaformer
+A PyTorch implementation of our RAGTrans
 
 ## Dependencies
 Install the dependencies via [Anaconda](https://www.anaconda.com/):
@@ -19,12 +19,12 @@ Three datasets (i.e., [SMPD](https://smp-challenge.com/download.html), [ICIP](ht
 
 create virtual environment:
 ```
-conda create --name Seaformer python=3.9
+conda create --name RAGTrans python=3.9
 ```
 
 activate environment:
 ```
-conda activate Seaformer
+conda activate RAGTrans
 ```
 
 install pytorh from [pytorch](https://pytorch.org/get-started/previous-versions/):
@@ -48,7 +48,7 @@ More running options are described in the codes, e.g., `-data_name= WEIXIN`
 
 ## Folder Structure
 
-Seaformer
+RAGTrans
 
 ```     
 └── models: # The file includes each part of the modules in Seaformer.
